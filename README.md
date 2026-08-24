@@ -1,72 +1,72 @@
-# ⚡ ELISA MARTINS · SYSTEM ONLINE
+# ⚡ ELISA MARTINS · SISTEMA ONLINE
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=ELISA%20MARTINS&fontSize=48&fontColor=38bdf8&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATIVE%20TECH%20%7C%20UI%2FUX&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+ELISA.OS...;%3E+SYSTEM+ONLINE+%E2%9C%93;%3E+BUILDING+IDEAS+INTO+DIGITAL+EXPERIENCES;%3E+CODE.+DESIGN.+CREATE.;%3E+WELCOME+TO+MY+DIGITAL+SPACE." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+INICIALIZANDO+ELISA.OS...;%3E+SISTEMA+ONLINE+%E2%9C%93;%3E+TRANSFORMANDO+IDEIAS+EM+EXPERI%C3%8ANCIAS+DIGITAIS;%3E+CODIFICAR.+CRIAR.+DESIGN.;%3E+BEM-VINDA+AO+MEU+ESPA%C3%87O+DIGITAL." alt="Animação de digitação" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-818CF8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SISTEMA-ONLINE-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FOCO-DESENVOLVIMENTO-818CF8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-CONSTRUINDO-22C55E?style=for-the-badge"/>
 </p>
 
 ---
 
-## `> ABOUT ME `
+## `> SOBRE_MIM.exe`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                     ELISA MARTINS                            │
 ├──────────────────────────────────────────────────────────────┤
-│  ROLE       → Student Developer                              │
-│  DOMAIN     → Technology · Design · Digital Experiences      │
-│  CURRENT    → Learning · Building · Experimenting            │
-│  INTERESTS  → Software · UI/UX · Web · Creative Tech         │
-│  MINDSET    → Curiosity > Comfort Zone                       │
+│  FUNÇÃO     → Estudante de Desenvolvimento                   │
+│  ÁREA       → Tecnologia · Design · Experiências Digitais    │
+│  ATUAL      → Aprendendo · Construindo · Experimentando      │
+│  INTERESSES → Software · UI/UX · Web · Tecnologia Criativa   │
+│  MENTALIDADE→ Curiosidade > Zona de Conforto                 │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-I'm a Brazilian student exploring the intersection between **technology, design, and problem solving**.
+Tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou uma estudante brasileira apaixonada por tecnologia e estou explorando a interseção entre **tecnologia, design e resolução de problemas**.
 
-I enjoy transforming ideas into digital experiences, from the first concept and interface in **Figma** to the implementation using code.
+Gosto de transformar ideias em experiências digitais, desde o primeiro conceito e interface no **Figma** até a implementação por meio de código.
 
-Currently, I'm expanding my knowledge in programming, web development, software engineering, and digital product creation.
+Atualmente, estou ampliando meus conhecimentos em programação, desenvolvimento web, engenharia de software e criação de produtos digitais.
 
-> **"The best projects start as an idea."**
+> **"Os melhores projetos começam com uma ideia."**
 
 ---
 
-## `> CURRENT PROTOCOL`
+## `> PROTOCOLO_ATUAL`
 
 ```console
-$ whoami
+$ quem_sou_eu
 
 Elisa Martins
 
-$ mission --current
+$ missão --atual
 
-→ Learn continuously
-→ Build meaningful projects
-→ Improve my programming skills
-→ Explore UI/UX and digital products
-→ Turn academic ideas into real experiences
+→ Aprender continuamente
+→ Construir projetos relevantes
+→ Melhorar minhas habilidades de programação
+→ Explorar UI/UX e produtos digitais
+→ Transformar ideias acadêmicas em experiências reais
 
-$ system_status
+$ status_do_sistema
 
 [████████████████████] 100%
 STATUS: ONLINE
-MODE: LEARNING + BUILDING
+MODO: APRENDENDO + CONSTRUINDO
 ```
 
 ---
 
-## `> TECH_STACK`
+## `> TECNOLOGIAS`
 
-### `LANGUAGES`
+### `LINGUAGENS`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -78,7 +78,7 @@ MODE: LEARNING + BUILDING
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### `TOOLS & WORKFLOW`
+### `FERRAMENTAS & FLUXO_DE_TRABALHO`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -93,18 +93,18 @@ MODE: LEARNING + BUILDING
 
 ---
 
-## `> PROJECT_DATABASE`
+## `> BANCO_DE_PROJETOS`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🌐 Web Projects
+### 🌐 Projetos Web
 
-Experiments and academic projects created while learning **web development, interfaces and digital experiences**.
+Experimentos e projetos acadêmicos criados durante meu aprendizado em **desenvolvimento web, interfaces e experiências digitais**.
 
-**FOCUS**
+**FOCO**
 
 `HTML` `CSS` `JavaScript` `Figma`
 
@@ -116,9 +116,9 @@ Experiments and academic projects created while learning **web development, inte
 
 <td width="50%" valign="top">
 
-### 💻 Programming & Web
+### 💻 Programação & Web
 
-Experiments and academic projects created while learning **web development, programming logic, interfaces, and digital experiences**.
+Experimentos e projetos acadêmicos criados durante meu aprendizado em **desenvolvimento web, lógica de programação, interfaces e experiências digitais**.
 
 **FOCUS**
 
@@ -136,9 +136,9 @@ Experiments and academic projects created while learning **web development, prog
 
 <td width="50%" valign="top">
 
-### 🎨 UI/UX Experiments
+### 🎨 Experimentos de UI/UX
 
-Interface concepts and prototypes created with **Figma**, exploring usability, visual hierarchy, accessibility, and interaction.
+Conceitos de interface e protótipos criados com **Figma**, explorando usabilidade, hierarquia visual, acessibilidade e interação.
 
 **FOCUS**
 
@@ -148,9 +148,9 @@ Interface concepts and prototypes created with **Figma**, exploring usability, v
 
 <td width="50%" valign="top">
 
-### 🧪 Learning Lab
+### 🧪 Laboratório de Aprendizado
 
-A collection of exercises, experiments and academic projects documenting my evolution in programming and technology.
+Uma coleção de exercícios, experimentos e projetos acadêmicos que documentam minha evolução em programação e tecnologia.
 
 **FOCUS**
 
@@ -163,34 +163,46 @@ A collection of exercises, experiments and academic projects documenting my evol
 
 ---
 
-## `> DEVELOPMENT LOG`
+## `> REGISTRO_DE_DESENVOLVIMENTO`
 
 ```diff
 + ████████████████████████████████████████████  ONLINE
 
-+ Currently learning:
-    → Programming fundamentals
-    → Web development
-    → Software engineering
-    → UI/UX and digital product design
+ + Atualmente aprendendo:
+    → Fundamentos de programação
+    → Desenvolvimento web
+    → Engenharia de software
+    → UI/UX e design de produtos digitais
 
-+ Currently building:
-    → Academic software projects
-    → Interactive experiences
-    → Web interfaces
-    → Personal development portfolio
+ + Atualmente construindo:
+    → Projetos acadêmicos de software
+    → Experiências interativas
+    → Interfaces web
+    → Portfólio pessoal de desenvolvimento
 
-+ Next objectives:
-    → Improve JavaScript
-    → Build more complete web applications
-    → Strengthen Git/GitHub workflow
-    → Develop stronger UI/UX skills
-    → Create projects for my portfolio
+ + Próximos objetivos:
+    → Melhorar JavaScript
+    → Criar aplicações web mais completas
+    → Fortalecer meu fluxo de trabalho com Git/GitHub
+    → Desenvolver habilidades mais fortes em UI/UX
+    → Criar projetos para meu portfólio
 ```
 
+---
 
+# `> ANÁLISES_DO_GITHUB`
 
-## `> CONTRIBUTION STREAK`
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElisaMartinsgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaMartinsgs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
+
+</p>
+
+---
+
+## `> SEQUÊNCIA_DE_CONTRIBUIÇÕES`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ElisaMartinsgs&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
@@ -198,18 +210,31 @@ A collection of exercises, experiments and academic projects documenting my evol
 
 ---
 
-## `> ACTIVITY_GRAPH`
+## `> GRÁFICO_DE_ATIVIDADE`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElisaMartinsgs&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
+---
 
+## `> SALA_DE_TROFÉUS`
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ElisaMartinsgs&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+</p>
 
 ---
 
-## `> CONNECT`
+## `> MATRIZ_DE_CONTRIBUIÇÕES`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ElisaMartinsgs/ElisaMartinsgs/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
+</p>
+
+---
+
+## `> CONECTE-SE`
 
 <p align="center">
 
@@ -221,20 +246,22 @@ A collection of exercises, experiments and academic projects documenting my evol
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
+<a href="https://www.instagram.com/SEU-INSTAGRAM/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## `> SYSTEM FOOTER`
+## `> RODAPÉ_DO_SISTEMA`
 
 <p align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║        SYSTEM ONLINE · KEEP BUILDING · KEEP LEARNING     ║
+║        SISTEMA ONLINE · CONTINUE CONSTRUINDO · APRENDENDO ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -244,11 +271,9 @@ A collection of exercises, experiments and academic projects documenting my evol
 </p>
 
 <p align="center">
-  <sub>Designed & built by Elisa Martins · 2026</sub>
+  <sub>Projetado e desenvolvido por Elisa Martins · 2026</sub>
 </p>
 
 <p align="center">
-  <sub>「 Code is the interface between an idea and reality. 」</sub>
+  <sub>「 O código é a interface entre uma ideia e a realidade. 」</sub>
 </p>
-
-
