@@ -19,15 +19,15 @@
 ## `> SOBRE MIM `
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                     ELISA MARTINS                            │
-├──────────────────────────────────────────────────────────────┤
-│  FUNÇÃO     → Estudante de Desenvolvimento                   │
-│  ÁREA       → Tecnologia · Design · Experiências Digitais    │
-│  ATUAL      → Aprendendo · Construindo · Experimentando      │
-│  INTERESSES → Software · UI/UX · Web · Tecnologia Criativa   │
-│  MENTALIDADE→ Curiosidade > Zona de Conforto                 │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────---- ──┐
+│                     ELISA MARTINS                                 │
+├──────────────────────────────────────────────────────────────---- ┤
+│  FUNÇÃO     → Estudante de Analise e Desenvolvimento de Sistemas  │
+│  ÁREA       → Tecnologia · Design · Experiências Digitais         │
+│  ATUAL      → Aprendendo · Construindo · Experimentando           │
+│  INTERESSES → Software · UI/UX · Web · Tecnologia Criativa        │
+│  MENTALIDADE→ Curiosidade > Zona de Conforto                      │
+└──────────────────────────────────────────────────────────────---- ┘
 ```
 
 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou uma estudante brasileira apaixonada por tecnologia e estou explorando a interseção entre **tecnologia, design e resolução de problemas**.
