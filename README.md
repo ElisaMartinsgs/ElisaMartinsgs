@@ -1,4 +1,4 @@
-# ⚡ ELISA MARTINS · SISTEMA ONLINE
+#  ELISA MARTINS 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=220&section=header&text=ELISA%20MARTINS&fontSize=48&fontColor=38bdf8&fontAlignY=38&desc=DEVELOPER%20%7C%20CREATIVE%20TECH%20%7C%20UI%2FUX&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
@@ -16,7 +16,7 @@
 
 ---
 
-## `> SOBRE_MIM.exe`
+## `> SOBRE MIM `
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -30,7 +30,7 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-Tenho 19 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**. Sou uma estudante brasileira apaixonada por tecnologia e estou explorando a interseção entre **tecnologia, design e resolução de problemas**.
+Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou uma estudante brasileira apaixonada por tecnologia e estou explorando a interseção entre **tecnologia, design e resolução de problemas**.
 
 Gosto de transformar ideias em experiências digitais, desde o primeiro conceito e interface no **Figma** até a implementação por meio de código.
 
@@ -163,44 +163,9 @@ Uma coleção de exercícios, experimentos e projetos acadêmicos que documentam
 
 ---
 
-## `> REGISTRO_DE_DESENVOLVIMENTO`
 
-```diff
-+ ████████████████████████████████████████████  ONLINE
 
- + Atualmente aprendendo:
-    → Fundamentos de programação
-    → Desenvolvimento web
-    → Engenharia de software
-    → UI/UX e design de produtos digitais
 
- + Atualmente construindo:
-    → Projetos acadêmicos de software
-    → Experiências interativas
-    → Interfaces web
-    → Portfólio pessoal de desenvolvimento
-
- + Próximos objetivos:
-    → Melhorar JavaScript
-    → Criar aplicações web mais completas
-    → Fortalecer meu fluxo de trabalho com Git/GitHub
-    → Desenvolver habilidades mais fortes em UI/UX
-    → Criar projetos para meu portfólio
-```
-
----
-
-# `> ANÁLISES_DO_GITHUB`
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElisaMartinsgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaMartinsgs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
-
-</p>
-
----
 
 ## `> SEQUÊNCIA_DE_CONTRIBUIÇÕES`
 
@@ -216,21 +181,7 @@ Uma coleção de exercícios, experimentos e projetos acadêmicos que documentam
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElisaMartinsgs&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
----
 
-## `> SALA_DE_TROFÉUS`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ElisaMartinsgs&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
-</p>
-
----
-
-## `> MATRIZ_DE_CONTRIBUIÇÕES`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ElisaMartinsgs/ElisaMartinsgs/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
-</p>
 
 ---
 
@@ -246,8 +197,7 @@ Uma coleção de exercícios, experimentos e projetos acadêmicos que documentam
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/SEU-INSTAGRAM/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
