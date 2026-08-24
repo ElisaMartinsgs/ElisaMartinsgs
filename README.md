@@ -198,9 +198,6 @@ Uma coleção de exercícios, experimentos e projetos acadêmicos que documentam
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -212,7 +209,7 @@ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=inst
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║        SISTEMA ONLINE · CONTINUE CONSTRUINDO · APRENDENDO ║
+║   SISTEMA ONLINE · CONTINUE CONSTRUINDO · APRENDENDO     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
