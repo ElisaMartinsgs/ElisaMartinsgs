@@ -30,11 +30,11 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
-I'm a Brazilian student exploring the intersection between **technology, design and problem solving**.
+I'm a Brazilian student exploring the intersection between **technology, design, and problem solving**.
 
 I enjoy transforming ideas into digital experiences, from the first concept and interface in **Figma** to the implementation using code.
 
-Currently, I'm expanding my knowledge in programming, web development, software engineering and digital product creation.
+Currently, I'm expanding my knowledge in programming, web development, software engineering, and digital product creation.
 
 > **"The best projects start as an idea."**
 
@@ -116,9 +116,9 @@ Experiments and academic projects created while learning **web development, inte
 
 <td width="50%" valign="top">
 
-### 💻 Web Projects
+### 💻 Programming & Web
 
-Experiments and academic projects created while learning **web development, programming logic, interfaces and digital experiences**.
+Experiments and academic projects created while learning **web development, programming logic, interfaces, and digital experiences**.
 
 **FOCUS**
 
@@ -138,7 +138,7 @@ Experiments and academic projects created while learning **web development, prog
 
 ### 🎨 UI/UX Experiments
 
-Interface concepts and prototypes created with **Figma**, exploring usability, visual hierarchy, accessibility and interaction.
+Interface concepts and prototypes created with **Figma**, exploring usability, visual hierarchy, accessibility, and interaction.
 
 **FOCUS**
 
@@ -229,7 +229,7 @@ A collection of exercises, experiments and academic projects documenting my evol
 ## `> CONTRIBUTION_MATRIX`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElisaMartinsgs/ElisaMartinsgs/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ElisaMartinsgs/ElisaMartinsgs/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
 </p>
 
 ---
@@ -278,5 +278,4 @@ A collection of exercises, experiments and academic projects documenting my evol
   <sub>「 Code is the interface between an idea and reality. 」</sub>
 </p>
 
-- ⚡ Fun fact: ...
--->
+
