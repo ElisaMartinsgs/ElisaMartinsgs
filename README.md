@@ -16,7 +16,7 @@
 
 ---
 
-## `> ABOUT_ME.exe`
+## `> ABOUT ME `
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -40,7 +40,7 @@ Currently, I'm expanding my knowledge in programming, web development, software 
 
 ---
 
-## `> CURRENT_PROTOCOL`
+## `> CURRENT PROTOCOL`
 
 ```console
 $ whoami
@@ -163,7 +163,7 @@ A collection of exercises, experiments and academic projects documenting my evol
 
 ---
 
-## `> DEVELOPMENT_LOG`
+## `> DEVELOPMENT LOG`
 
 ```diff
 + ████████████████████████████████████████████  ONLINE
@@ -188,21 +188,9 @@ A collection of exercises, experiments and academic projects documenting my evol
     → Create projects for my portfolio
 ```
 
----
 
-# `> GITHUB_ANALYTICS`
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElisaMartinsgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaMartinsgs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
-
-</p>
-
----
-
-## `> CONTRIBUTION_STREAK`
+## `> CONTRIBUTION STREAK`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ElisaMartinsgs&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
@@ -216,21 +204,8 @@ A collection of exercises, experiments and academic projects documenting my evol
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElisaMartinsgs&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
----
 
-## `> TROPHY_ROOM`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ElisaMartinsgs&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
-</p>
-
----
-
-## `> CONTRIBUTION_MATRIX`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ElisaMartinsgs/ElisaMartinsgs/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
-</p>
 
 ---
 
@@ -246,15 +221,13 @@ A collection of exercises, experiments and academic projects documenting my evol
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/SEU-INSTAGRAM/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+
 
 </p>
 
 ---
 
-## `> SYSTEM_FOOTER`
+## `> SYSTEM FOOTER`
 
 <p align="center">
 
