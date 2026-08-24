@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=%3E+INICIALIZANDO+ELISA.OS...;%3E+SISTEMA+ONLINE+%E2%9C%93;%3E+TRANSFORMANDO+IDEIAS+EM+EXPERI%C3%8ANCIAS+DIGITAIS;%3E+CODIFICAR.+CRIAR.+DESIGN.;%3E+BEM-VINDA+AO+MEU+ESPA%C3%87O+DIGITAL." alt="Animação de digitação" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=;%3E+TRANSFORMANDO+IDEIAS+EM+EXPERI%C3%8ANCIAS+DIGITAIS;%3E+CODIFICAR.+CRIAR.+DESIGN.;%3E+BEM-VINDA+AO+MEU+ESPA%C3%87O+DIGITAL." alt="Animação de digitação" />
 </p>
 
 <p align="center">
@@ -19,15 +19,16 @@
 ## `> SOBRE MIM `
 
 ```text
-┌────────────────────────────────────────────────────────────---- ──┐
-│                     ELISA MARTINS                                 │
-├──────────────────────────────────────────────────────────────---- ┤
-│  FUNÇÃO     → Estudante de Analise e Desenvolvimento de Sistemas  │
-│  ÁREA       → Tecnologia · Design · Experiências Digitais         │
-│  ATUAL      → Aprendendo · Construindo · Experimentando           │
-│  INTERESSES → Software · UI/UX · Web · Tecnologia Criativa        │
-│  MENTALIDADE→ Curiosidade > Zona de Conforto                      │
-└──────────────────────────────────────────────────────────────---- ┘
+┌──────────────────────────────────────────────────────────────┐
+│ ELISA MARTINS                                                │
+├──────────────────────────────────────────────────────────────┤
+│ FUNÇÃO → Estudante de Análise e Desenvolvimento de  Sistemas │
+│ ÁREA → Tecnologia · Design · Experiências Digitais.          │
+│ ATUAL → Aprendendo · Construindo · Experimentando            │
+│ INTERESSES → Software · UI/UX · Web · Tecnologia Criativa.   │
+│ MENTALIDADE → Curiosidade > Zona de Conforto.                │
+└──────────────────────────────────────────────────────────────┘
+
 ```
 
 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Sou uma estudante brasileira apaixonada por tecnologia e estou explorando a interseção entre **tecnologia, design e resolução de problemas**.
